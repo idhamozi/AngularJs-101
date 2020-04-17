@@ -10,7 +10,7 @@ Repositori hasil tugas mata kuliah Pemrograman Framework dalam menggunakan [Angu
 <img src="ss/fullpage-responsive.jpg" height="380"> 
 
 ## Instalasi AngularJs via Yarn
-1. Langkah pertama install terlebih dahulu npm package manager. 
+1. Langkah pertama install terlebih dahulu [npm package manager](https://nodejs.org/en/download/) yang ada dalam Node Js. 
 2. Buka Command Prompt
 3. Install Yarn (NPM sudah harus terinstall) masukkan command 
 ```
