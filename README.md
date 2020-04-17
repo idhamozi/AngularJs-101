@@ -1,5 +1,5 @@
 # AngularJs-101
-Repositori hasil tugas mata kuliah Pemrograman Framework dalam menggunakan AngularJs, disini saya menggunakan AngularJs versi 1.7.x dengan menggabungkan Bootstrap versi 4. Alasan saya masih menggunakan AngularJs versi lama hanya untuk pengetahuan dan coba-coba aja. Mohon Maaf bila penjelasan saya kurang jelas atau masih kacau.
+Repositori hasil tugas mata kuliah Pemrograman Framework dalam menggunakan [AngularJs](https://github.com/angular/angular.js), disini saya menggunakan AngularJs versi 1.7.x dengan menggabungkan Bootstrap versi 4. Alasan saya masih menggunakan AngularJs versi lama hanya untuk pengetahuan dan coba-coba aja. Mohon Maaf bila penjelasan saya dibawah ini kurang jelas atau masih kacau.
 
 ## Screenshot
 
@@ -29,7 +29,7 @@ npm install
 ```
 
 ## Menjalankan Server
-1. Install terlebih dahulu tool Node.js bernama http-server yang versi global.
+1. Install terlebih dahulu tool Node.js bernama [http-server](https://github.com/indexzero/http-server) yang versi global.
 ```
 sudo npm install -g http-server
 ```
